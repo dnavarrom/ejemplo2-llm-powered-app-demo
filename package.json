@@ -1,0 +1,23 @@
+{
+  "name": "ejemplo2-llm-powered-app-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "ejemplo1": "ts-node ejemplo1.ts",
+    "ejemplo2": "ts-node ejemplo2.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "openai": "^6.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
