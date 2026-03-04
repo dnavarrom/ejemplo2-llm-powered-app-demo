@@ -7,7 +7,9 @@ Este repositorio contiene programas de consola creados en TypeScript para ejempl
 1. **Node.js** (v14 o superior)
 2. **Clave de API de OpenAI**: Necesitas una clave válida (`API Key`) de OpenAI. Si no tienes una, puedes generarla en la [plataforma de desarrolladores de OpenAI](https://platform.openai.com/).
 
-## 🚀 Instalación y Configuración
+3. Puedes revisar instrucciones de configuración de ambiente Windows en [SETUP_WINDOWS.md](SETUP_WINDOWS.md)
+
+## 🚀 Instalación y Configuración del proyecto
 
 1. Instala las dependencias del proyecto ejecutando:
    ```bash
